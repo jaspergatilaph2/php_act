@@ -1,0 +1,16 @@
+{
+    "users": [
+        {
+            "username": "jaspergatila@yahoo.com",
+            "password": "$2y$10$ZLu2XxQb\/Lr7Jtlcz3YzAu6sOr4JIEJDoTp6E93CRcrxa3s2YNdNi"
+        },
+        {
+            "username": "jaspergatila@yahoo.com.ph",
+            "password": "$2y$10$UVVUqkyK33qiOP0GR61SYuVRJldvWoOXC5ECHcM69F5nRLqZ\/ZK4S"
+        },
+        {
+            "username": "jaspergatila@gmail.com",
+            "password": "$2y$10$fAn0ikBLs9o81a5cyqzzKuZfFVX1yp1W.3E1T1fMXNckjZtpKV6ou"
+        }
+    ]
+}
