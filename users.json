@@ -11,6 +11,10 @@
         {
             "username": "jaspergatila@gmail.com",
             "password": "$2y$10$fAn0ikBLs9o81a5cyqzzKuZfFVX1yp1W.3E1T1fMXNckjZtpKV6ou"
+        },
+        {
+            "username": "Gatila Jasper",
+            "password": "$2y$10$Kq9iaB9wy5an.e3bp4lVLOgDklk1CxagIyEs3OM1bEaX.kBcLZcSW"
         }
     ]
 }
